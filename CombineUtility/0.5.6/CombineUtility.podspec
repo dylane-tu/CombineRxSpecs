@@ -9,8 +9,8 @@ s.version = "0.5.6"
 s.license = { :type => "MIT", :file => "LICENSE" }
 s.author = { "Adamas Zhu" => "developer@adamaszhu.com",
 "Leon Nguyen" => "leon.nguyen291@gmail.com" }
-s.homepage = "https://github.com/adamaszhu/CombineUtility"
-s.source = { :git => "https://github.com/adamaszhu/CombineUtility.git",
+s.homepage = "https://github.com/transurban/CombineUtility"
+s.source = { :git => "https://github.com/transurban/CombineUtility.git",
 :tag => "#{s.version}" }
 s.source_files = "CombineUtility/**/*.{swift}"
 s.swift_version = "4.2"
