@@ -17,5 +17,6 @@ s.swift_version = "4.2"
 
 s.framework = "Foundation"
 s.dependency 'CombineRx', '~> 1.1.2'
+s.dependency 'MultipartForm' '~> 0.1.0'
 
 end
